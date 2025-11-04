@@ -1,13 +1,13 @@
 <!-- Header: animated typing -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kwinqy">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Your+Name!+%F0%9F%91%8B;Golang+%7C+Backend+%7C+Distributed+Systems;Clean+code.+Strong+typing.+Massive+impact." alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Hero GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="640" alt="Coding GIF">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://steamcommunity.com/sharedfiles/filedetails/?l=turkish&id=1139417144)" width="640" alt="Coding GIF">
 </p>
 
 <!-- Badges -->
