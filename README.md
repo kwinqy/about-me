@@ -12,32 +12,22 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8A2BE2" alt="Profile views" />
+  <a href="https://github.com/kwinqy">
+    <img src="https://komarev.com/ghpvc/?username=kwinqy&style=for-the-badge&color=8A2BE2" alt="Profile views" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <a href="https://github.com/kwinqy?tab=followers">
+    <img src="https://img.shields.io/github/followers/kwinqy?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="Total Stars" />
+  <a href="https://github.com/kwinqy?tab=repositories">
+    <img src="https://img.shields.io/github/stars/kwinqy?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="Total Stars" />
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/kwinqy">
     <img src="https://img.shields.io/badge/Telegram-Contact-0F9DDA?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
   <a href="mailto:you@example.com">
     <img src="https://img.shields.io/badge/Email-you%40example.com-1f6feb?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-
----
-
-## 👋 Немного обо мне
-- 💡 Люблю проектировать надежные сервисы на **Go**: от API и брокеров до операторов под **Kubernetes**.  
-- ⚙️ Интересы: **распределенные системы**, **сетевое программирование**, **Kafka**, **gRPC**, **PostgreSQL**, **Observability**.  
-- 🚀 Сейчас прокачиваю: **перформанс**, **профилирование (pprof)**, **диагностика в проде**, **хаос-тесты**.  
-- 🧩 Сторонник **чистого кода**, **боевых бенчмарков** и прагматичной архитектуры.
-
----
 
 ## 🛠️ Технологический стек
 <p align="center">
