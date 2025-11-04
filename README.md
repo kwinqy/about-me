@@ -29,7 +29,7 @@
   </a>
 </p>
 
-## 🛠️ Технологический стек
+##  Технологический стек
 <p align="center">
   <!-- Devicons (cdn.jsdelivr) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="Go"/>
